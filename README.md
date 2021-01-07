@@ -23,7 +23,7 @@ Mini Projet 1 de Module Développement Mobile
     
 ![photo3](https://user-images.githubusercontent.com/65094783/103952601-fda2e500-5140-11eb-9de0-97e3cb71b464.PNG) <br>
       &nbsp;&nbsp;&nbsp; - - - L'application vérifie que le montant est moins de solde <br>
-)
+
  ![photo2](https://user-images.githubusercontent.com/65094783/103952554-e663f780-5140-11eb-8989-543ebef681ed.PNG) <br>
    *Quand le transfert se passe , l'application retourne à la page d'acceuille<br>
  ![photo5](https://user-images.githubusercontent.com/65094783/103952685-1e6b3a80-5141-11eb-97e5-112cd9075b74.PNG) <br>
